@@ -3362,6 +3362,18 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &1093942841
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1093942832}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75a2ce20c625b9b4684abc713e7fc52c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::NewInputSystem
 --- !u!1 &1300740944
 GameObject:
   m_ObjectHideFlags: 0
@@ -4615,6 +4627,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 5459563829586240459, guid: cc9242b78872e804f9a88ee4ca994ace, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1093942840}
+    - targetCorrespondingSourceObject: {fileID: 5459563829586240459, guid: cc9242b78872e804f9a88ee4ca994ace, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1093942841}
   m_SourcePrefab: {fileID: 100100000, guid: cc9242b78872e804f9a88ee4ca994ace, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
